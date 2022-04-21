@@ -1,4 +1,4 @@
-# This automated script scrapes the top 5 stories from Snopes.com and send them to an
+# This automated script scrapes the top 5 stories from Snopes.com and sends them to an
 # email address, daily. Automation via Windows Task Scheduler.
 # ------
 # Project inspiration: https://www.youtube.com/watch?v=Ikf6Xdox0Go.
